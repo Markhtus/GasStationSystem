@@ -1,6 +1,6 @@
 # C Fuel Station System ⛽
 
-A basic console program in C that simulates a fuel station's operations.
+A basic console program in C that simulates a fuel station's operations. This project was developed for the Programming Fundamentals course during the second semester.
 
 ---
 
